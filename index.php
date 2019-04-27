@@ -1,4 +1,4 @@
 <?php 
-echo "Hello World - Amrit Sharma - This is blue Green Deploymeny";
+echo "这是为了审计目的";
 
 ?>
